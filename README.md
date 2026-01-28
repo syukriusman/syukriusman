@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello Everyone! Call me Aisy :)
 
 <!--
 **syukriusman/syukriusman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my ✨ special ✨ repository! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This `README.md` appears on my GitHub profile, so here’s a little about me: 
+🔭 Currently working on exciting projects in Finance of my litle district. 
+🌱 Actively learning around of Data and Artificial intelligence. 
+👯 Looking to collaborate on open-source projects and innovative ideas. 
+🤔 Open to guidance and mentorship in basic of Data and Artificial intelligence. 
+
+- Ask me about sytem flow around of my environment. 
+
+📫 Reach me via apq000d6x0580@student.devacademy.id or connect on https://www.linkedin.com/in/14una/. 
+⚡ Fun fact: qui qui the qui qui. --- 
+
+✨ Thanks for visiting my profile! Feel free to explore my limited repositories and connect with me.
